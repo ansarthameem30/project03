@@ -1,0 +1,51 @@
+.container
+{
+    height: 100vh;
+    
+}
+.heading
+{
+    display: flex;
+    margin-bottom: 5rem;
+    justify-content: center;
+}
+.container span:nth-of-type(1)
+{
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.text
+{
+    font-size: 3rem;
+    text-transform: capitalize;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+.box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body
+{
+    background-color: beige;
+}
+.text1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.input
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
